@@ -21,13 +21,19 @@
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
