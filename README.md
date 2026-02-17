@@ -11,12 +11,14 @@
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0414-third-maximum-number) |
+| [0561-array-partition](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0561-array-partition) |
 | [1200-minimum-absolute-difference](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/1200-minimum-absolute-difference) |
 ## Sorting
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0414-third-maximum-number) |
+| [0561-array-partition](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0561-array-partition) |
 | [1200-minimum-absolute-difference](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/1200-minimum-absolute-difference) |
 ## Hash Table
 |  |
@@ -36,4 +38,12 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0202-happy-number) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
