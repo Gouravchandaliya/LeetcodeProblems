@@ -50,5 +50,14 @@
 ## String
 |  |
 | ------- |
+| [3174-clear-digits](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/3174-clear-digits) |
 | [3794-reverse-string-prefix](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/3794-reverse-string-prefix) |
+## Stack
+|  |
+| ------- |
+| [3174-clear-digits](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/3174-clear-digits) |
+## Simulation
+|  |
+| ------- |
+| [3174-clear-digits](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/3174-clear-digits) |
 <!---LeetCode Topics End-->
