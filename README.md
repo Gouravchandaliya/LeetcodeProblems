@@ -14,6 +14,7 @@
 | [0027-remove-element](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0561-array-partition) |
@@ -23,6 +24,7 @@
 | ------- |
 | [0018-4sum](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0561-array-partition) |
@@ -30,6 +32,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
@@ -58,6 +61,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0561-array-partition](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0561-array-partition) |
 ## String
 |  |
@@ -72,4 +76,8 @@
 |  |
 | ------- |
 | [3174-clear-digits](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/3174-clear-digits) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
