@@ -15,6 +15,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0414-third-maximum-number) |
@@ -58,6 +59,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0561-array-partition](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0561-array-partition) |
 ## Counting Sort
 |  |
@@ -85,4 +87,5 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
