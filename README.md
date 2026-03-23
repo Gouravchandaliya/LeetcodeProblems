@@ -52,6 +52,7 @@
 | [0088-merge-sorted-array](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0392-is-subsequence) |
 | [3794-reverse-string-prefix](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/3794-reverse-string-prefix) |
 ## Binary Search
 |  |
@@ -79,6 +80,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0383-ransom-note](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0392-is-subsequence) |
 | [3174-clear-digits](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/3174-clear-digits) |
 | [3794-reverse-string-prefix](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/3794-reverse-string-prefix) |
 ## Stack
@@ -99,6 +101,7 @@
 | [0055-jump-game](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0392-is-subsequence) |
 ## String Matching
 |  |
 | ------- |
