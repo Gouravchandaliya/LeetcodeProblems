@@ -40,6 +40,7 @@
 | [0169-majority-element](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0383-ransom-note) |
 ## Two Pointers
 |  |
 | ------- |
@@ -71,11 +72,13 @@
 | ------- |
 | [0169-majority-element](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0274-h-index) |
+| [0383-ransom-note](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0383-ransom-note) |
 | [0561-array-partition](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0561-array-partition) |
 ## String
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0383-ransom-note](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0383-ransom-note) |
 | [3174-clear-digits](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/3174-clear-digits) |
 | [3794-reverse-string-prefix](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/3794-reverse-string-prefix) |
 ## Stack
