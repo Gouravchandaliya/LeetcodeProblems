@@ -25,6 +25,7 @@
 | [0238-product-of-array-except-self](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0274-h-index) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0414-third-maximum-number](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0561-array-partition) |
 | [1200-minimum-absolute-difference](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/1200-minimum-absolute-difference) |
@@ -46,6 +47,7 @@
 | [0169-majority-element](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0383-ransom-note) |
 ## Two Pointers
 |  |
@@ -72,6 +74,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0202-happy-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0380-insert-delete-getrandom-o1) |
 ## Greedy
 |  |
 | ------- |
@@ -121,4 +124,12 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0238-product-of-array-except-self) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
