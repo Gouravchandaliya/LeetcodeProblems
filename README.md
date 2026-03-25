@@ -21,6 +21,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0274-h-index) |
@@ -69,6 +70,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0209-minimum-size-subarray-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Math
 |  |
@@ -123,6 +125,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0238-product-of-array-except-self) |
 ## Design
 |  |
@@ -132,4 +135,8 @@
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0380-insert-delete-getrandom-o1) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
