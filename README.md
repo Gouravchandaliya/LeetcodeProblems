@@ -96,6 +96,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0383-ransom-note](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0392-is-subsequence) |
@@ -104,6 +105,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0020-valid-parentheses) |
 | [3174-clear-digits](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/3174-clear-digits) |
 ## Simulation
 |  |
