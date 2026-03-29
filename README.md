@@ -6,6 +6,7 @@
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0196-delete-duplicate-emails) |
 | [0577-employee-bonus](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0577-employee-bonus) |
+| [0620-not-boring-movies](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0620-not-boring-movies) |
 | [1661-average-time-of-process-per-machine](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/1661-average-time-of-process-per-machine) |
 ## Array
 |  |
