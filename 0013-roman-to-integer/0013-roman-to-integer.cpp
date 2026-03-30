@@ -15,7 +15,6 @@ public:
         int n = s.size();
 
         for(int i = 0; i < n; i++) {
-            // if next value is greater → subtract current
             if(i + 1 < n && value[s[i]] < value[s[i + 1]]) {
                 total -= value[s[i]];
             } else {
