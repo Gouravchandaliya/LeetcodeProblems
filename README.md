@@ -33,6 +33,7 @@
 | [0414-third-maximum-number](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/0561-array-partition) |
 | [1200-minimum-absolute-difference](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/1200-minimum-absolute-difference) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/2553-separate-the-digits-in-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -119,6 +120,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2553-separate-the-digits-in-an-array](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/2553-separate-the-digits-in-an-array) |
 | [3174-clear-digits](https://github.com/Gouravchandaliya/LeetcodeProblems/tree/master/3174-clear-digits) |
 ## Divide and Conquer
 |  |
